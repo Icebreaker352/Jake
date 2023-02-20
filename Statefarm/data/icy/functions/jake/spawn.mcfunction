@@ -1,0 +1,2 @@
+summon slime ~ ~ ~ {Tags:["jake"],Size:6,Silent:1b,ActiveEffects:[{Id:14,Duration:9999,ShowParticles:0b}],Passengers:[{id:"armor_stand",Tags:["jake_model"],Small:1b,Invisible:1b,Marker:1b,ArmorItems:[{},{},{},{id:"armor_stand",Count:1b,tag:{CustomModelData:137000}}]}]}
+kill @s
